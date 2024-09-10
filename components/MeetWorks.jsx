@@ -33,7 +33,7 @@ export default function MeetWorks() {
             <div className="w-full h-full flex-1 space-y-3">
               <div>
                 <h3 className="text-xl font-bold pb-1">
-                  Explore Communities
+                  View Communities
                 </h3>
                 <p className="h-12">Discover communities within Rizvi and throughtout Mumbai University.</p>
               </div>
