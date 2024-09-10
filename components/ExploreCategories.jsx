@@ -48,8 +48,8 @@ const cateforyPayload = [
     iconColor: "purple-400",
   },
   {
-    id: "AR",
-    name: "Architecture",
+    id: "AI",
+    name: "Artifical Engineering",
     icon: (
       <BrainCircuit
         strokeWidth={1.5}
