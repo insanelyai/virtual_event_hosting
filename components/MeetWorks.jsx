@@ -39,7 +39,7 @@ export default function MeetWorks() {
               </div>
               <div>
                 <Link href={"/"} className="text-blue-600 font-bold hover:underline use-transition">
-                  View Communities
+                  Explore communities
                 </Link>
               </div>
             </div>
